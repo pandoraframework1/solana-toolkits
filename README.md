@@ -1,8 +1,5 @@
 # Solana Toolkit
 
-<div align="center">
-  <img src="./img/sora_readme_banner.png" alt="Sora Banner" width="100%" />
-</div>
 
 A package for building and managing function calling tools and toolkits for specifically Solana. Built specifically for Zen.
 
@@ -14,9 +11,3 @@ A package for building and managing function calling tools and toolkits for spec
 - Ability to make transfers of tokens and swaps of tokens through Jupiter
 - Launch tokens through the pump.fun platform for tokenization purposes
 
-## Installation
-
-### Go
-```bash
-go get github.com/soralabs/solana-toolkit/go
-```
